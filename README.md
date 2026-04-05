@@ -36,14 +36,12 @@ Room Mate Finder is an open-source project designed to help individuals find sui
 - **Database**: MongoDB
 
 ## Team Members
-1. **Ombir** 
-2. **Muskan**
-3. **Krishna**
-4. **Harman**
-5. **Gaurav**
+1. **Harman** 
+2. **Saniya**
+3. **Yatin**
 
 ### Guided By:
-**Seema Kumari**
+**Simran Kaur**
 
 ## Contribution
 We welcome contributions from the open-source community! Feel free to submit issues, fork the repository, and create pull requests to improve the project.
