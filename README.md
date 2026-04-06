@@ -38,7 +38,6 @@ Room Mate Finder is an open-source project designed to help individuals find sui
 ## Team Members
 1. **Harman** 
 2. **Saniya**
-3. **Yatin**
 
 ### Guided By:
 **Simran Kaur**
